@@ -44,7 +44,7 @@ def ask_questions():
             "The student can be unorganised at times.",
             "The student is prompt and organised to a satisfactory level.",
             "The student is often organised.",
-            "The student is well equipt with effective time management and project management skills.",
+            "The student is well equipped with effective time management and project management skills.",
         ],
     ]
 
