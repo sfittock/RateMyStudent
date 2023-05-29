@@ -21,3 +21,5 @@ An example of the prompt that you could use to pre-train ChatGPT with to ready i
 	The comment should be between 150 and 200 words in length. When applicable, use the student's name and/or pronoun accordingly. 
 
 	Are you ready to begin?
+
+You can use VS Code to run the script or an online environment such as https://www.online-python.com/
