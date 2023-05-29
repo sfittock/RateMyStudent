@@ -1,4 +1,4 @@
-# StudentEvaluation
+# RateMyStudent
 This script is designed to help educators simply create content that can be used to generate feedback or a summative comment of student learning.
 
 The purpose of this project was to streamline the process of generating a student report comment. It can also be used to provide feecback to a student. 
