@@ -18,7 +18,7 @@ An example of the prompt that you could use to pre-train ChatGPT with to ready i
 
 	I will provide you with some information about the student. Use this information to inform your comment.
 
-	The comment should be between 150 and 200 words in length. When applicable, use the student's name and/or pronoun accordingly. 
+	The comment should be structured as one or two paragraphs. It should be written as if it will be used in an end-of-term student report. Do not write the comment as a letter directly addressing the student's parents. When applicable, use the student's name and/or pronoun accordingly.
 
 	Are you ready to begin?
 
