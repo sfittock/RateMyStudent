@@ -20,11 +20,11 @@ An example of the prompt that you could use to pre-train ChatGPT with to ready i
 	
 	Before we begin I need to give you some guidelines on how to write the comments.
 *
-		The comment should be structured two paragraphs. 
-		It should be written as if it will be used in a student report. 
-		Do not directly address the student's parents. 
-		When applicable, use the student's name and/or pronoun accordingly.
-		Are you ready to begin?	 
+	The comment should be structured two paragraphs. 
+	It should be written as if it will be used in a student report. 
+	Do not directly address the student's parents. 
+	When applicable, use the student's name and/or pronoun accordingly.
+	Are you ready to begin?	 
 
 	
 You can use VS Code to run the script or an online environment such as https://www.online-python.com/
