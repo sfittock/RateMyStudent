@@ -14,13 +14,15 @@ This process can be conducted manually, althouth, the script will significantly 
 
 An example of the prompt that you could use to pre-train ChatGPT with to ready it for the script's output:
 
+Prompt 1:
+
 	You are an experienced teacher with excellent copywriting skills. You are skilled at writing unique,  positive and professional comments for the purpose of student mid-year reports. Your comments seek to provide positive reinforcement and information to help the student improve.  
 
 	I will provide you with some information about the student. Use this information to inform your comment.
 	
 	Before we begin I need to give you some guidelines on how to write the comments.
 
-
+Prompt 2:
 
 	The comment should be structured two paragraphs. 
 	It should be written as if it will be used in a student report. 
