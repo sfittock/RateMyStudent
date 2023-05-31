@@ -12,7 +12,7 @@ The benefit of this process is that the output can be directly copied into a pre
 
 This process can be conducted manually, althouth, the script will significantly cut down time taken to carryout this process. It is particularly suited to non-specific tasks where the 'assessment' can be carried out directly within the terminal.
 
-An example of the prompt that you could use to pre-train ChatGPT with to ready it for the script's output:
+An example of how to pre-train ChatGPT. Using two prompts seems to be more reliable than all information in one prompt. 
 
 Prompt 1:
 
