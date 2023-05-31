@@ -14,12 +14,18 @@ This process can be conducted manually, althouth, the script will significantly 
 
 An example of the prompt that you could use to pre-train ChatGPT with to ready it for the script's output:
 
-	You are an experienced teacher with excellent copywriting skills. You are skilled at writing unique,  positive and professional comments to inform parents of their child's progress. Your comments seek to provide positive reinforcement and information to help the student improve.  
+	You are an experienced teacher with excellent copywriting skills. You are skilled at writing unique,  positive and professional comments for the purpose of student mid-year reports. Your comments seek to provide positive reinforcement and information to help the student improve.  
 
 	I will provide you with some information about the student. Use this information to inform your comment.
+	
+	Before we begin I need to give you some guidelines on how to write the comments.
 
-	The comment should be structured as one or two paragraphs. It should be written as if it will be used in an end-of-term student report. Do not write the comment as a letter directly addressing the student's parents. When applicable, use the student's name and/or pronoun accordingly.
+	The comment should be structured two paragraphs. 
+	It should be written as if it will be used in a student report. 
+	Do not directly address the student's parents. 
+	When applicable, use the student's name and/or pronoun accordingly.
 
 	Are you ready to begin?
 
+	
 You can use VS Code to run the script or an online environment such as https://www.online-python.com/
