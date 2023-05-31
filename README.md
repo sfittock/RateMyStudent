@@ -19,7 +19,9 @@ An example of the prompt that you could use to pre-train ChatGPT with to ready i
 	I will provide you with some information about the student. Use this information to inform your comment.
 	
 	Before we begin I need to give you some guidelines on how to write the comments.
-*
+
+
+
 	The comment should be structured two paragraphs. 
 	It should be written as if it will be used in a student report. 
 	Do not directly address the student's parents. 
